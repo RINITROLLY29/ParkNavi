@@ -136,6 +136,3 @@ http://127.0.0.1:8000/
 * Vehicle number recognition integration
 
 
-
-##
-This project was developed as an academic project. This repository contains the project overview, features, architecture, and technologies used.
